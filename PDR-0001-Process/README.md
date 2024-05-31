@@ -1,0 +1,356 @@
+---
+PDR: 1
+Title: Pragma Decision Record Process
+Status: Ongoing
+Category: Process
+Created: 2024-05-24
+Authors :
+    - Damien Czapla <damien.czapla@openthelead.com>
+    - Christina Gianelloni <christina@blinklabs.io>
+    - Christian Grobmeier <cg@grobmeier.de>
+    - Daniel Gonzalez <dan@sundaeswap.finance>
+    - Federico Weill <federico@txpipe.io>
+    - Sebastian Bode <sebastian.bode@cardanofoundation.org>
+---
+
+## Context
+A Pragma Decision Record (PDR) is a formalised decision making document for the Pragma organisation. A PDR describes a change within Pragma processes, a policy for maintainers or a guideline for projects. In this PDR, we explain what a PDR is; the PDR workflow within Pragma current organisation; the role of the PDR Authors; and how users should go about proposing, discussing and structuring a PDR. 
+
+Pragma as an open source organisation intends PDRs to be the primary mechanism for creating processes and managing the rules and the boundaries with its maintainers projects. PDRs are made to document discussions and community inputs towards reaching a decision. PDRs are text files with a versioned repository that will make available the progress of a decision and its discussion.
+
+## Motivation : Why is this PDR necessary?
+PDRs aim to address the need for various parties to discuss and agree on a common set of processes, rules and guidelines that embodies Pragma.
+This PDR process proposes a simple form of governance linked to Pragma board members as decision makers. <br> All decisions made with the process described in this document applies only to Pragma and the projects within. 
+
+## Decision
+Pragma will use this workflow to monitor and record all decisions regarding processes, policies & guidelines. 
+
+Decisions are recorded as numbered (over 4 digits, left-padded) markdown files, versioned directly with the project sources. <br> We currently recognise and record three types of decisions:
+
+- `Process`: decisions related to the overall process that must be applied by the Pragma organisation.
+- `Policy`: decisions that creates a rule that all lead maintainers must apply within their project environment
+- `Guidelines`: decisions that formalise a best practice from a project as a recommendation
+
+The main input for the decision pipeline is community-driven : we believe that decisions are the result of lively discussions on the most efficient ways of building things.  
+
+## Consequences
+
+The items described below go into depth of the workflow, the stakeholders and the documentation required to run the process.
+
+### Table of Contents
+
+   * [Process](#process)
+      + [1. Submitting a decision to Pragma](#1-submitting-a-decision-to-pragma)
+         - [1.a. Authors open a pull request](#1a-authors-open-a-pull-request)
+         - [1.b. Authors seek feedback](#1b-authors-seek-feedback)
+      + [2. Validity review](#2-validity-review)
+      + [Roles](#roles)
+         - [Authors](#authors)
+         - [Board members](#board-members)
+   * [Document](#document)
+      + [Header Preamble](#header-preamble)
+      + [Categories](#categories)
+      + [Statuses](#statuses)
+         - [Status: Proposed](#status-proposed)
+         - [Status: Accepted](#status-accepted)
+         - [Status: Rejected](#status-rejected)
+      + [Context](#context)
+      + [Motivation](#motivation)
+      + [Decision](#decision)
+      + [Consequence](#consequence)
+      + [Discussion points](#discussion-points)
+   * [Structure related items](#structure-related-items)
+      + [Repository Organization](#repository-organization)
+      + [Translations](#translations)
+      + [Versioning](#versioning)
+
+### Process
+
+![Process image](Process.png)
+
+#### 1. Submitting a decision to Pragma
+
+##### 1.a. Authors open a pull request
+
+Decision proposals must be submitted to the [pragma-org/PDRs][Repository] repository as a pull request named after the decision title. The pull request title **should not** include a PDR number (and use `?` instead as number); the board members will assign one. 
+
+##### Naming PDRs with similar subjects
+
+When a PDR title *and* subject matter share a common element, begin the PDR title with that common element and end it with the specifc portion, delimited with the `-` character.  Example :
+
+> *Web-Wallet Bridge **-** Governance*
+
+Board members will help determine these common elements and, whenever necessary, rename both PDR document titles and PR titles accordingly.  The objective is to provide commonly recognisable names for similar developments (e.g. multiple extensions to another PDR or scheme).
+
+##### Link to decision from PR first comment
+
+In the original comment for your pull request, please include a link to the directory or the `README.md` for the PDR in your working branch, so readers and reviewers can easily follow your work.  This makes it easier for board members and the community to read and review your proposal.
+
+> **Note** If this link changes (e.g. from the PDR directory being renamed), please keep this link updated.
+
+##### 1.b. Authors seek feedback
+
+Authors shall champion their decision proposals. The PDR process is a collaborative effort, which implies discussions between different groups of individuals. While board members may provide specific inputs and help reach out to experts, authors shall Acceptedly seek feedback from the community to help move their decision forward.
+
+Discussions and comments shall mainly happen on Github in pull requests. When discussed on other mediums, we expect authors or participants to report back a summary of their discussions to the original pull request to keep track of the most critical conversations in a written form and all in one place.
+
+As much as possible, commenters/reviewers shall remain unbiased in their judgement and assess decisions in good faith. Authors have the right to reject comments or feedback but **are strongly encouraged to address concerns in their 'Rationale' section**. Ultimately, Pragma board members shall make the last call concerning the various statements made on a decision and their treatment by the author(s).
+
+By opening pull requests or posting comments, commenters and authors agree to our [Code of Conduct][CoC]. Any comment infringing this code of conduct shall be removed or altered without prior notice.
+
+#### 2. Validity review
+
+On a monthly basis, Pragma board members will review in more some chosen PDRs (based on their readiness and the stability of the discussions) and assess if they meet the criteria to be merged in their aimed status.
+
+During review sessions, board members will regularly invite project maintainers or actors from the ecosystem who are deemed relevant to the meeting's agenda. 
+
+A dedicated [Discord][Discord] thread may also be created for some long-running discussions to support quick chats and progress on particular topics (while still being regularly summarised on the repository).
+
+The outcome of that review can be the following :
+- Acceptance : The decision is accepted by the board and is now part of Pragma; status becomes _'Accepted'_
+- Rejection : The decision is rejected by the board the reasons behind rejection are documented in the PDR section _'Discussion points'_; status becomes _'Rejected'_
+- Incomplete : The decision is not documented enough to reach an agreement, another review is scheduled
+
+#### Roles
+
+##### Authors
+
+###### Missions
+
+Authors are people that deemed necessary to transform a discussion they were having into a decision for Pragma. <br> They are expected to lead discussions towards being accepted or rejected by the board. <br> People that intend to propose decisions in the PDR process must explicitly enlist themselves and commit to the following:
+
+- a) allocating time to **review** proposals from actors of the community when solicited by board members (i.e. after one first round of reviews);
+- b) defining additional rules and processes whereby external actors can engage with their project as part of the PDR process;
+
+###### Nomination
+
+Authors of a PDR can be anyone from the community, and there's no limit to the number of authors a PDR can have. <br> A common sense rule is that in the list of authors should be the main contributors to the discussion and the people that can commit to review the decision with the Pragma board members. 
+
+##### Board members
+
+###### Missions
+
+Pragma board members safeguard the PDR process: they form a group enforcing the process described in this document and facilitating conversations between community actors. Board members should strive to keep up to date with general discussions around Cardano. For each new draft proposal submitted on [pragma-org/PDRs][PullRequest] a board member might review it as follows:
+
+- Read the decision decisions to check if it is ready, sound, and complete.
+- Check if it has been [properly formatted](#structure).
+- Check if sufficient time has been allowed for proper discussion amongst the community.
+- Ensure the motivation behind the PDR is valid and that design choices have relevant justifications or rationale.
+- Assign a PDR number
+- Request wording/grammar adjustments
+
+PDRs that do not meet a sufficient level of quality or don't abide by the process described in this document will be deemed _'Incomplete'_ until their authors address review comments.
+
+###### Reviews
+
+Note that board members **may** provide specific feedback on decisions in some cases, although they aren't expected to be the sole technical reviewers of decisions. PDRs are, before anything, a community-driven effort. While board members are here to facilitate the discussion and mediate debates, they aren't necessarily technical experts on all subjects covered by PDRs.
+
+Therefore, PDRs authors are encouraged to reach out to known experts to demonstrate their good faith and openness when they champion a decision. Board members may help with such efforts but cannot be expected to do this alone.
+
+###### Nomination
+
+The Pragma board members are chosen by General Assembly (of the 5 founding members of Pragma) for a duration of 4 years and cannot be elected for more than 3 terms as described in the statutes of Pragma. They perform their work on a voluntary basis. 
+
+Current board members are listed here below:
+
+| Christina Gianelloni <br/> [@musik-c][] | Christian Grobmeier <br/> [@grobmeier][] |Daniel Gonzalez <br/> [@gonzalaga][] |  Federico Weill <br/> [@federicoweill][] | Sebastian Bode <br/> [@cleanerm5][] |
+| ---                               | ---                                           | ---                            | ---                            | ---                             |
+
+[@musik-c]: https://github.com/musik-c
+[@grobmeier]: https://github.com/grobmeier
+[@federicoweill]: https://github.com/federicoweill
+[@gonzalaga]: https://github.com/gonzalaga
+[@cleanerm5]: https://github.com/cleanerm5
+
+### Document
+
+A PDR is, first and foremost, a document which proposes a decision resulting from a discussion that is ongoing on a specific topic. Documents are [Markdown][] files with a _Preamble_ and a set of pre-defined sections. <br> PDR authors must abide by the general structure, though they are free to organise each section as they see fit.
+
+The structure of a PDR file is summarised in the table below:
+
+Name                                            | Description
+---                                             | ---
+Preamble                                        | Headers containing metadata about the PDR ([see below](#header-preamble)).
+Context                                         | A short (\~200 word) description of the context, explaination of the discussions where the decision came from.
+Motivation                                      | A clear explanation of "Why it's necessary to make that decision" introducing the purpose of the decision.
+Decision                                        | Clarify the content of the decision by explaining its scope of application with sufficient details to be self-explanatory.
+Consequences                                    | Describe the result/consequences of applying that decision; both positive and negative outcomes <br/> If the decisions is a *Policy*, elaborate in that section on how to measure the application of the policy on a project (qualitative or quantitative) by using metrics that can be understood by any internet user.  
+Discussion points                               | Summarizes, a posteriori, the major discussion points that gravitates around the decision
+_optional sections_                             | May appear in any order, or with custom titles, at author and board members discretion:<br/>**Versioning**: to point out majors changes<br/>**References**<br/>**Appendices**<br/>**Acknowledgements**
+
+> **Note** Each of these section titles (*Abstract* onward) should be an H2 heading (beginning with markdown `##`).  Subsections like _Positive outcomes_ or _Negative outcomes_ should be H3 headings (e.g. `### Positive outcomes`).  Don't include a H1 title heading (markdown `#`): for web friendly contexts, this will be generated from the Preamble.
+
+#### Header Preamble
+
+Each PDR must begin with a YAML key:value style header preamble (also known as _front matter data_), preceded and followed by three hyphens (`---`).
+
+Field              | Description
+---                | ---
+`PDR`              | The PDR number (without leading 0), or "\?" before being assigned
+`Title`            | A succinct and descriptive title.  If necessary, use a `-` delimiter to begin with an applicable classification (see [Naming PDRs with similar subjects](#naming-PDRs-with-similar-subjects)).
+`Category`         | One of the registered [categories](#categories).
+`Status`           | Proposed \| Accepted \| Rejected (.._reason_..)
+`Authors`          | A list of authors' real names and email addresses (e.g. John Doe <john.doe@email.domain>)
+`Created`          | Date created on, in ISO 8601 (YYYY-MM-DD) format
+
+For example:
+
+```yaml
+---
+PDR: 1
+Title: Pragma Decision Record Process
+Status: Ongoing
+Category: Process
+Created: 2024-05-24
+Authors :
+    - Damien Czapla <damien.czapla@openthelead.com>
+    - Christina Gianelloni <christina@blinklabs.io>
+    - Christian Grobmeier <cg@grobmeier.de>
+    - Daniel Gonzalez <dan@sundaeswap.finance>
+    - Federico Weill <federico@txpipe.io>
+    - Sebastian Bode <sebastian.bode@cardanofoundation.org>
+---
+```
+> **Note** A reference template is available in [.github/PDR-Template.md][PDR-Template.md]
+
+#### Categories
+
+PDRs are classified into distinct categories that help organise (and thus, find) them. Categories are meant to be flexible and evolve as new domains emerge. Authors may leave the category as `?` should they not be sure under which category their decision falls; board members will eventually assign one or reject the proposal altogether should it relate to an area where the PDR process does not apply.
+
+At present, we consider the following list of initial categories:
+
+Category   | Description
+---        | ---
+Process    | Creates a new way of working within Pragma
+Policy     | Creates a rule that all Pragma maintainers must abide by
+Guidelines | Recommendations of best practices for Pragma maintainers 
+
+#### Statuses
+
+PDRs can have three statuses: `Proposed`, `Accepted` or `Rejected`. [The PDR Process section](#process) highlights how PDRs move through these statuses; no PDR should be given one of these statuses without satisfying the criteria described here below.
+
+> **Note** There is no "draft" status: a decisions which has not been merged (and hence exists in a PR) is a draft PDR. Draft PDRs should include the status they are aiming for on acceptance. Typically, but not always, this will be _'Proposed'_.
+
+##### Status: Proposed
+
+A _'Proposed'_ PDR is any PDR that meets the essential PDR criteria but is not yet _'Accepted'_. The criteria that must meet a PDR to be merged as _'Proposed'_ are:
+
+- It must contain all the sections described in [Structure](#structure).
+- The quality of the content must be to the Board satisfaction. That means it must be grammatically sound, well-articulated and demonstrates noticeable efforts in terms of completeness and level of detail.
+- Its technical soundness should have been established. Where necessary, this may require review by particular experts and addressing their concerns. Note that the requirement is that the proposal makes sense (i.e. be technically sound), yet no consulted experts need to think it is a good idea.
+- It must have a valid [Consequence](#consequence) section as defined below.
+
+##### Status: Accepted
+
+An _'Accepted'_ PDR has taken effect after being validated by the Pragma board members. Said differently, the board will check the coherence between the scope described in the _'Decision'_ section and check how the main _'Consequence'_ are identified. <br> Exact criteria thereby depends on the nature of the PDR, typically:
+
+- For PDRs that relate to policies for projects, it becomes _'Accepted'_ by formalising in the consequences what applying the policy means and also by having a way to measure the application of the policy on project;
+- For guidelines, a PDR becomes _'Accepted'_ by having enough evidences to prove that the decisions is being used and is recognized as a standard in the ecosystem;
+- For process, it means having a _'Motivation'_ that targets Pragma as a whole and provides added value to be used.
+
+A decisions that is _'Accepted'_ is considered complete and is synonymous with "production readiness" when it comes to the maturity of a solution. _'Accepted'_ PDRs will not be updated substantially (apart from minor edits, proofreading and added precisions). They can, nevertheless, be challenged through new decisions if need be.
+
+##### Status: Rejected
+
+A _'Rejected'_ PDR describes any decision that does not fit into the other types. A PDR can therefore be _'Rejected'_ for various reasons (e.g. obsolete, superseded, abandoned). Hence the status must indicate a justification in brackets; for example:
+
+```
+Status: Rejected (superseded by PDR-0001)
+```
+
+
+#### Context
+
+Formalises the origin of the decision (usually discussions), mention the time and place of the discussions that lead to creating the PDR.
+
+#### Motivation
+
+Arguments an answer to "Why it's necessary to make that decision" for Pragma. Pointing forward what purpose does that PDR encapsulates.
+
+#### Decision
+
+Clarifies the implementation of the decision and its scope of application.
+
+#### Consequence
+
+Formalises the consequences to the existing environment of Pragma. <br>
+This must be subdivided into two sub-sections:
+
+  - _'Positive outcomes'_
+
+    This sub-section must define a list of outcomes that are identified as positive during the discussions happening around the decision. Items of this section must relate to observable metrics, facts or deliverables and can be double checked with other project maintainers when applicable. For example: "Reduces dependency on centralized platforms like GitHub", or "Encourages a low-tech approach to contributions, potentially increasing accessibility for some contributors".
+
+  - _'Negative outcomes'_
+
+    This sub-section must define a list of outcomes that are identified as negative during the discussions happening around the decision. Criteria must relate to observable metrics, facts or deliverables and can be reviewed by other project maintainers when applicable. For example: "Increased overhead for contributors to manage patches and communicate through mailing lists", or "Higher barrier to entry for new contributors unfamiliar with the proposed decentralized tools and processes".
+
+> **Note** the statuses of `Proposed` and `Accepted` _both_ require a _Consequence_ section, making this a _required_ section for all viable decisions.  Even if a PDR is `Rejected`, it will be interesting to document the `Consequence` that lead to that decision.
+
+#### Discussion points
+
+Summarizes the main arguments pointed forward while discussing the decision.
+
+### Structure related items
+
+#### Repository Organization
+
+A PDR must be stored in a specific folder named after its number (4-digit, left-padded with `0`) and in a file called `README.md`. Before a number is assigned, a placeholder folder name should be used (e.g. `PDR-my-new-feature`). After a number has been assigned, rename the folder.
+
+Additional supporting files (such as diagrams, binary specifications, dialect grammars, JSON schemas etc.) may be added to the PDR's folder under freely chosen names.
+
+For example:
+
+```
+PDR-0010
+├── README.md
+├── registry.json
+└── registry.schema.json
+
+```
+
+#### Translations
+
+While PDRs are mainly documents meant to be primarily written in English; some may be translated into various languages to increase their outreach. Any file in a PDR folder may also include translated content satisfying the following rules:
+
+- Any translated file shall share a common basename with its original source.
+
+- Translation file basenames must have a suffix using an [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code, separated by a dot `.` character. (e.g. `README.fr.md`).
+
+- When no language code is provided as suffix, the default language for the document is assumed to be English (UK/US).
+
+- Translated PDRs (i.e. `README` files), must not include the original preamble. They must, however, include the following preamble as yaml frontmatter data:
+
+Field          | Description
+---            | ---
+`PDR`          | The PDR number (without leading 0)
+`Source`       | The canonical GitHub link to the original PDR document
+`Title`        | A translation of the PDR's title
+`Revision`     | Whenever possible, the commit hash (7 first hex-digits, e.g. `12ab34c`) of the source in the main repository. If the source was not committed to the main repo, use the best known translation date in ISO format (if unknown, use the date posted in the translation's PR branch).
+`Translators`  | A list of translators names and email addresses (e.g. `John Doe <john.doe@email.domain>`)
+`Language`     | An [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code of the target language (e.g. `fr`)
+
+- Translated PDRs inherit the same licensing terms as their original sources.
+
+#### Versioning
+
+PDRs must indicate how the defined Specification is versioned.  **Note** this does not apply to the PDR text, for which annotated change logs are automatically generated and available through the GitHub UI as a history of PDR files and directories.
+
+Authors are free to describe any approach to versioning that allows versioned alterations to be added without author oversight.  Stipulating that the  must be superseded by another is also considered to be valid versioning.
+
+Since this is a functional definition it would typically be in one or more subsections of the Specification, but may also be placed in an optional Versioning section.
+
+
+
+## Copyright
+
+This PDR is licensed under [CC-BY-4.0][].
+
+[Apache-2.0]: http://www.apache.org/licenses/LICENSE-2.0
+[CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/legalcode
+[PDR-TEMPLATE.md]: https://github.com/pragma-org/PDRs/blob/main/.github/PDR-TEMPLATE.md
+[CODE_OWNERS]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
+[PullRequest]: https://github.com/pragma-org/PDRs/pulls
+[Repository]: https://github.com/pragma-org/PDRs/pulls
+[CoC]: https://github.com/pragma-org/PDRs/blob/main/CODE_OF_CONDUCT.md
+[Discord]: https://discord.gg/fUyPWjBcKE
