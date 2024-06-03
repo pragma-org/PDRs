@@ -72,7 +72,7 @@ The items described below go into depth of the workflow, the stakeholders and th
 
 ##### 1.a. Authors open a pull request
 
-Decision proposals must be submitted to the [pragma-org/PDRs][Repository] repository as a pull request named after the decision title. The pull request title **should not** include a PDR number (and use `?` instead as number); the board members will assign one. 
+Decision proposals must be submitted to the [pragma-org/PDRs][PullRequest] repository as a pull request named after the decision title. The pull request title **should not** include a PDR number (and use `?` instead as number); the board members will assign one. 
 
 ##### Naming PDRs with similar subjects
 
