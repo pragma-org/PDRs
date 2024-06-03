@@ -341,7 +341,7 @@ It would typically be in one or more subsection, but may also be placed in an op
 
 - The CIP (Cardano Improvement Proposal) & EIP (Ethereum Improvement Proposal) process designed for a large, well-established community with many subsystems and contributors can be a knowledgable source of inspiration.
 - Given the open source nature of Pragma and its projects, everything described in the PDR Process should be self explanatory.
-- ADR (Architecture Decision Record) tracks and explains critical architectural decisions, this can be adapted to drive the documentation of the decision making process related to the Pragma.
+- ADR (Architecture Decision Record) tracks and explains critical architectural decisions, this can be adapted to drive the documentation of the decision making process related to Pragma.
 
 
 [PDR-TEMPLATE.md]: https://github.com/pragma-org/PDRs/blob/main/.github/PDR-TEMPLATE.md
