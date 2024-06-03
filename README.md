@@ -16,7 +16,7 @@ Pragma board members will review discussions in monthly meetings transcribe and 
 
 | #    | Title | Status |
 | ---- | --- | --- |
-| 0001 | [PDR process](./PDR_0001-Process/) | Proposed |
+| 0001 | [PDR process](./PDR-0001-Process/) | Proposed |
 
 <p align="right"><i>Last updated on 2024-05-30</i></p>
 
@@ -28,17 +28,9 @@ Below are listed tentative PDRs still under discussion with the community and th
 
 | #     | Title |
 | ----- | --- |
-| 0002? | [Pragma Process - Board & Maintainers relationship : Quarterly reports; Reviews](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Process - Incubation system for projects - What criterias? What structure? What steps?](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Policy - What open source means for us)](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Policy - Demos oriented roadmap](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Policy - maintainer cycle (Xtrem programming; & DDD adaptation); ADR;](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Guidelines - release; demo; documentation](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Process - Incubation system for projects - What criterias? What structure? What steps?](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Incubation system - What criterias? What structure? What steps?](https://github.com/pragma-org/PDRs/pulls) |
-| 0002? | [Pragma Incubation system - What criterias? What structure? What steps?](https://github.com/pragma-org/PDRs/pulls) |
+| 0002? | [Pragma Process - Administrative board voting](https://github.com/pragma-org/PDRs/pull/2) |
 
-<p align="right"><i>Last updated on 2024-05-28</i></p>
+<p align="right"><i>Last updated on 2024-06-03</i></p>
 
 ## Pragma board members
 
