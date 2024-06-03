@@ -2,7 +2,7 @@
 PDR: ?
 Title: ?
 Category: ?
-Status: Proposed | Live | Rejected
+Status: Proposed | Accepted | Rejected
 Authors:
     - John Doe <john.doe@email.domain>
 Created: YYYY-MM-DD
