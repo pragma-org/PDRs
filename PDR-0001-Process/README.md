@@ -1,7 +1,7 @@
 ---
 PDR: 1
 Title: Pragma Decision Record Process
-Status: Ongoing
+Status: Proposed
 Category: Process
 Created: 2024-05-24
 Authors :
@@ -199,7 +199,7 @@ For example:
 ---
 PDR: 1
 Title: Pragma Decision Record Process
-Status: Ongoing
+Status: Proposed
 Category: Process
 Created: 2024-05-24
 Authors :
@@ -333,24 +333,19 @@ Field          | Description
 
 #### Versioning
 
-PDRs must indicate how the defined Specification is versioned.  **Note** this does not apply to the PDR text, for which annotated change logs are automatically generated and available through the GitHub UI as a history of PDR files and directories.
-
 Authors are free to describe any approach to versioning that allows versioned alterations to be added without author oversight.  Stipulating that the  must be superseded by another is also considered to be valid versioning.
 
-Since this is a functional definition it would typically be in one or more subsections of the Specification, but may also be placed in an optional Versioning section.
+It would typically be in one or more subsection, but may also be placed in an optional Versioning section.
+
+## Discussions points
+
+- The CIP (Cardano Improvement Proposal) & EIP (Ethereum Improvement Proposal) process designed for a large, well-established community with many subsystems and contributors can be a knowledgable source of inspiration.
+- Given the open source nature of Pragma and its projects, everything described in the PDR Process should be self explanatory.
+- ADR (Architecture Decision Record) tracks and explains critical architectural decisions, this can be adapted to drive the documentation of the decision making process related to the Pragma.
 
 
-
-## Copyright
-
-This PDR is licensed under [CC-BY-4.0][].
-
-[Apache-2.0]: http://www.apache.org/licenses/LICENSE-2.0
-[CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/legalcode
 [PDR-TEMPLATE.md]: https://github.com/pragma-org/PDRs/blob/main/.github/PDR-TEMPLATE.md
-[CODE_OWNERS]: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [PullRequest]: https://github.com/pragma-org/PDRs/pulls
-[Repository]: https://github.com/pragma-org/PDRs/pulls
 [CoC]: https://github.com/pragma-org/PDRs/blob/main/CODE_OF_CONDUCT.md
 [Discord]: https://discord.gg/fUyPWjBcKE
