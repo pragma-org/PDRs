@@ -2,16 +2,16 @@
 PDR: ?
 Title: ?
 Category: ?
-Status: Proposed | Accepted | Rejected
+Status: Accepted | Rejected
 Authors:
     - John Doe <john.doe@email.domain>
 Created: YYYY-MM-DD
 ---
 
 <!-- Existing categories:
-- Process    | Create a new way of working within Pragma
-- Policy     | Creates a rule that all Pragma maintainers must abide by
-- Guidelines | Recommendations of best practices for Pragma maintainers 
+- Process    | Create a new way of working within PRAGMA
+- Policy     | Creates a rule that all PRAGMA maintainers must abide by
+- Guidelines | Recommendations of best practices for PRAGMA maintainers
 --->
 
 ## Context
@@ -30,5 +30,5 @@ Created: YYYY-MM-DD
 
 ### Negative outcomes
 
-## Discussion points
+### Discussion points
 <!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
