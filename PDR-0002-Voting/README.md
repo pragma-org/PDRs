@@ -11,18 +11,20 @@ Created: 2024-06-03
 
 ## Context
 
-In the statuses of Pragma the board has the responsibility of implementation, management, and oversight of the administration of PRAGMA but no details are mentionned into the decision making process.
+In Pragma's statutes, the board is responsible for implementing, managing, and overseeing PRAGMA's administration of PRAGMA.
+The statutes do not mention details in the decision-making process.
 
 ## Motivation
 
-The rules behind the decision-making process of the Administrative Board have to be formalised.
-THe approach used for this process should be based on a consensus mechanism.
+The rules behind the decision-making and voting process of the Administrative Board need formalization.
+The approach used for this process should be based on a consensus mechanism.
 
 ## Decision
 
-The board can only vote on procedural questions related to the foundation, they will use the Pragma Decision Record process to document them. <br>
+The board can only vote on procedural questions related to the association, they will use the PRAGMA Decision Record process to document them.
 
-For every vote made by the board there will be 3 rules to be followed : 
+Each voting must comply with the following rules:
+
 1. The voting will have to take place with a set agenda and the votes will be recorded in the minutes of the meeting by a designated Secretary for the meeting in [.validityreview][Archive];
 2. A quorum will be required for the decision making to happen : at least 4 board members have to be present (including the lead administrator);
 3. If there's a voting results that ends up with a tie (e.g 2 votes Accepted; 2 votes Rejected) the lead administrator has the power to finalise the decision making;
