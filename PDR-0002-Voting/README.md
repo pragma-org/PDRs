@@ -1,6 +1,6 @@
 ---
 PDR: ?
-Title: Pragma administrative board - Voting process 
+Title: PRAGMA administrative board - Voting process 
 Category: Process
 Status: Proposed 
 Authors:
@@ -11,7 +11,7 @@ Created: 2024-06-03
 
 ## Context
 
-In Pragma's statutes, the board is responsible for implementing, managing, and overseeing PRAGMA's administration of PRAGMA.
+In PRAGMA's statutes, the board is responsible for implementing, managing, and overseeing PRAGMA's administration of PRAGMA.
 The statutes do not mention details in the decision-making process.
 
 ## Motivation
