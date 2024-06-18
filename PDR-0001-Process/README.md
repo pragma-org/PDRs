@@ -14,7 +14,8 @@ Authors :
 ---
 
 ## Context
-A PRAGMA Decision Record (PDR) is a formalised decision making document for the PRAGMA organisation. A PDR describes a change within PRAGMA processes, a policy for maintainers or a guideline for projects. In this PDR, we explain what a PDR is; the PDR workflow within PRAGMA current organisation; the role of the PDR Authors; and how authors should go about proposing, discussing and structuring a PDR.
+A Pragma Decision Record (PDR) is a formalised decision-making document for the Pragma organisation. A PDR describes a change within Pragma processes, a policy for maintainers, or a project guideline. In this PDR, we explain what a PDR is; the PDR workflow within Pragma current organisation; the role of the PDR Authors; and how users should go about proposing, discussing and structuring a PDR. 
+
 
 PRAGMA as an open source organisation intends PDRs to be the primary mechanism for creating processes and managing the rules and the boundaries with its maintainers projects. PDRs are made to document discussions and community inputs towards reaching a decision. PDRs are text files with a versioned repository that will make available the progress of a decision and its discussion.
 
@@ -39,7 +40,7 @@ The main input for the decision pipeline is community-driven : we believe that d
 
 ## Consequences
 
-The items described below go into depth of the workflow, the stakeholders and the documentation required to run the process.
+The items described below detail the workflow, the stakeholders, and the documentation required to run the process.
 
 ### Table of Contents
    * [Process](#process)
@@ -73,20 +74,19 @@ The items described below go into depth of the workflow, the stakeholders and th
 #### 1. Submitting a decision to PRAGMA
 
 ##### 1.a. Authors open a pull request
-
-Decision proposals must be submitted to the [pragma-org/PDRs][PullRequest] repository as a pull request named after the decision title. The PDR number is given by the pull request number. The pull request title **should not** include a PDR number; the board members will assign one.
+Decision proposals must be submitted to the [pragma-org/PDRs][PullRequest] repository as a pull request named after the decision title. The pull request title **should not** include a PDR number (and use `?` instead as a number); the board members will assign one. 
 
 ##### Naming PDRs with similar subjects
 
-When a PDR title *and* subject matter share a common element, begin the PDR title with that common element and end it with the specifc portion, delimited with the `-` character.  Example :
+When a PDR title *and* subject matter share a common element, begin the PDR title with that common element and end it with the specific portion delimited with the `-` character.  Example :
 
 > *Web-Wallet Bridge **-** Governance*
 
-Board members will help determine these common elements and, whenever necessary, rename both PDR document titles and PR titles accordingly. The objective is to provide commonly recognisable names for similar developments (e.g. multiple extensions to another PDR or scheme).
+Board members will help determine these common elements and, whenever necessary, rename both PDR document titles and PR titles accordingly.  The objective is to provide commonly recognisable names for similar developments (e.g., multiple extensions to another PDR or scheme).
 
-##### Link to decision from PR first comment
+##### Link to a decision from PR first comment
 
-In the original comment for your pull request, please include a link to the directory or the `README.md` for the PDR in your working branch, so readers and reviewers can easily follow your work.  This makes it easier for board members and the community to read and review your proposal.
+In the original comment for your pull request, please include a link to the directory or the `README.md` for the PDR in your working branch so readers and reviewers can easily follow your work. This makes it easier for board members and the community to read and review your proposal.
 
 > [!IMPORTANT]
 > If this link changes (e.g. from the PDR directory being renamed), please keep this link updated.
@@ -114,6 +114,7 @@ The outcome of that review can be the following :
 - Rejection : The decision is rejected by the board the reasons behind rejection are documented in the PDR section _'Discussion points'_; status becomes _'Rejected'_
 - Incomplete : The decision is not documented enough to reach an agreement, another review is scheduled
 
+
 #### Roles
 
 ##### Authors
@@ -125,8 +126,7 @@ Authors are people that deemed necessary to transform a discussion they were hav
 They are expected to lead discussions towards being accepted or rejected by the board.
 
 People that intend to propose decisions in the PDR process must explicitly enlist themselves and commit to the following:
-
-- a) allocating time to **review** proposals from actors of the community when solicited by board members (i.e. after one first round of reviews);
+- a) allocating time to **review** proposals from actors of the community when solicited by board members (i.e., after one first round of reviews);
 - b) defining additional rules and processes whereby external actors can engage with their project as part of the PDR process;
 
 ###### Nomination
@@ -152,13 +152,14 @@ PDRs that do not meet a sufficient level of quality or don't abide by the proces
 
 ###### Reviews
 
-Note that board members **may** provide specific feedback on decisions in some cases, although they aren't expected to be the sole technical reviewers of decisions. PDRs are, before anything, a community-driven effort. While board members are here to facilitate the discussion and mediate debates, they aren't necessarily technical experts on all subjects covered by PDRs.
+Note that board members **may** sometimes provide specific feedback on decisions, although they aren't expected to be the sole technical reviewers of decisions. PDRs are, before anything, a community-driven effort. While board members are here to facilitate the discussion and mediate debates, they aren't necessarily technical experts on all subjects covered by PDRs.
 
 Therefore, PDRs authors are encouraged to reach out to known experts to demonstrate their good faith and openness when they champion a decision. Board members may help with such efforts but cannot be expected to do this alone.
 
 ###### Nomination
 
 The PRAGMA board members are chosen by General Assembly (of the 5 founding members of PRAGMA) for a duration of 4 years and cannot be elected for more than 3 terms as described in the statutes of PRAGMA. They perform their work on a voluntary basis.
+
 
 Current board members are listed here below:
 
@@ -243,6 +244,7 @@ Guidelines | Recommendations of best practices for PRAGMA maintainers
 
 PDRs can have two statuses: `Accepted` or `Rejected`. [The PDR Process section](#process) highlights how PDRs move through these statuses; no PDR should be given one of these statuses without satisfying the criteria described here below.
 
+
 > [!NOTE]
 > There is no "draft" status: a decisions which has not been merged (and hence exists in a PR) is a draft PDR.
 
@@ -251,21 +253,21 @@ PDRs can have two statuses: `Accepted` or `Rejected`. [The PDR Process section](
 A _'Accepted'_ PDR is any PDR that meets the essential PDR criteria and has been approved by the board. The criteria that must meet a PDR to be merged as _'Accepted'_ are:
 
 - It must contain all the sections described in [Structure](#structure).
-- The quality of the content must be to the Board satisfaction. That means it must be grammatically sound, well-articulated and demonstrates noticeable efforts in terms of completeness and level of detail.
-- Its technical soundness should have been established. Where necessary, this may require review by particular experts and addressing their concerns. Note that the requirement is that the proposal makes sense (i.e. be technically sound), yet no consulted experts need to think it is a good idea.
+- The quality of the content must be to the Board satisfaction. That means it must be grammatically sound, well-articulated, and demonstrate noticeable effort in terms of completeness and level of detail.
+- Its technical soundness should have been established. Where necessary, this may require review by particular experts and addressing their concerns. Note that the requirement is that the proposal makes sense (i.e., be technically sound), yet no consulted experts need to think it is a good idea.
 - It must have a valid [Consequence](#consequence) section as defined below.
 
 Furthermore, to criteria for being accepted may vary depending on the nature of the PDR, typically:
 
-- For PDRs that relate to policies for projects, it becomes _'Accepted'_ by formalising in the consequences what applying the policy means and also by having a way to measure the application of the policy on project;
+- For PDRs that relate to policies for projects, it becomes _'Accepted'_ by formalising in the consequences of what applying the policy means and also by having a way to measure the application of the policy on project;
 - For guidelines, a PDR becomes _'Accepted'_ by having enough evidences to prove that the decisions is being used and is recognized as a standard in the ecosystem;
 - For process, it means having a _'Motivation'_ that targets PRAGMA as a whole and provides added value to be used.
 
-A decisions that is _'Accepted'_ is considered complete and is synonymous with "production readiness" when it comes to the maturity of a solution. _'Accepted'_ PDRs will not be updated substantially (apart from minor edits, proofreading and added precisions). They can, nevertheless, be challenged through new decisions if need be.
+A decision that is _'Accepted'_ is considered complete and is synonymous with "production readiness" when it comes to the maturity of a solution. _'Accepted'_ PDRs will not be updated substantially (apart from minor edits, proofreading, and added precisions). They can, nevertheless, be challenged through new decisions if need be.
 
 ##### Status: Rejected
 
-A _'Rejected'_ PDR describes any decision that does not fit into the other types. A PDR can therefore be _'Rejected'_ for various reasons (e.g. obsolete, superseded, abandoned). Hence the status must indicate a justification in brackets; for example:
+A _'Rejected'_ PDR describes any decision that does not fit into the other types. A PDR can therefore be _'Rejected'_ for various reasons (e.g., obsolete, superseded, abandoned). Hence, the status must indicate a justification in brackets; for example:
 
 ```
 Status: Rejected (superseded by PDR-0001)
@@ -273,7 +275,7 @@ Status: Rejected (superseded by PDR-0001)
 
 #### Context
 
-Formalises the origin of the decision (usually discussions), mention the time and place of the discussions that lead to creating the PDR.
+Formalises the origin of the decision (usually discussions), and mentions the time and place of the discussions that led to the creation of the PDR.
 
 #### Motivation
 
@@ -291,7 +293,7 @@ This must be subdivided into two sub-sections:
 
   - _'Positive outcomes'_
 
-    This sub-section must define a list of outcomes that are identified as positive during the discussions happening around the decision. Items of this section must relate to observable metrics, facts or deliverables and can be double checked with other project maintainers when applicable. For example: "Reduces dependency on centralized platforms like GitHub", or "Encourages a low-tech approach to contributions, potentially increasing accessibility for some contributors".
+    This sub-section must define a list of outcomes that are identified as positive during the discussions happening around the decision. Items of this section must relate to observable metrics, facts, or deliverables and can be double-checked with other project maintainers when applicable. For example: "Reduces dependency on centralized platforms like GitHub", or "Encourages a low-tech approach to contributions, potentially increasing accessibility for some contributors".
 
   - _'Negative outcomes'_
 
@@ -309,6 +311,7 @@ Summarizes the main arguments pointed forward while discussing the decision.
 #### Repository Organization
 
 A PDR must be stored in a specific folder named after its number (4-digit, left-padded with `0`) and in a file called `README.md`.
+
 
 Additional supporting files (such as diagrams, binary specifications, dialect grammars, JSON schemas etc.) may be added to the PDR's folder under freely chosen names.
 
