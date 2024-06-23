@@ -21,7 +21,7 @@ The approach used for this process should be based on a consensus mechanism.
 
 ## Decision
 
-The board can only vote on procedural questions related to the association; they will use the PRAGMA Decision Record process to document them.
+The board can only vote on procedural questions related to the association; they will use the [PRAGMA Decision Record process](../PDR-0001-Process/README.md) to document them.
 
 Each voting must comply with the following rules:
 
