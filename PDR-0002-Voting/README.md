@@ -36,11 +36,21 @@ Each voting must comply with the following rules:
 
 ### Positive outcomes
 
+- Clarity in decision-making: a public voting process ensures that all board members 
+  and interested parties know how decisions are made. 
+  This process will reduce confusion and improve governance.
+- Transparency: Recording votes and maintaining minutes allow everyone to review the decision-making.
+- Consistency: A formalized process helps that decision-making is consistent across different meetings.
+- Efficiency: Clear rules for quorum and tie-breaking help to reduce the time on procedural issues.
 
 ### Negative outcomes
 
+- More bureaucracy: the voting process may slow down the decision making due to the reliance on meetings.
+- Deadlocks: when there is a tie, absent members may cause further delays of important decisions
+- Attendance requirement: board members' attendance is more important, especially for the quorum and tie-breaking procedure.
+- Temporary board members: temporary board members may lead to inconsistency in decision-making as they may not know all the issues behind the decisions.
+
 ## Discussion points
 <!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
-
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
