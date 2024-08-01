@@ -1,5 +1,5 @@
 ---
-PDR: ?
+PDR: 0002
 Title: PRAGMA administrative board - Voting process 
 Category: Process
 Status: Proposed 
