@@ -28,7 +28,8 @@ Each voting must comply with the following rules:
 1. The voting will have to take place with a set agenda, and the votes will be recorded in the minutes of the meeting by a designated Secretary for the meeting in [.validityreview][Archive];
 2. A quorum will be required for the decision-making to happen: at least four of five board members have to be present
 3. If there's a voting result that ends up with a tie (e.g., two votes accepted; two votes rejected), the decision will be postponed to a makeup meeting within two weeks, where the absent board member will have to be present to vote;
-4. If a board member is absent for two consecutive meetings, the board can ask the general assembly to elect a temporary board member who can participate in the voting process. 
+4. If a board member is absent for two consecutive meetings, the board can ask the general assembly to elect a temporary board member who can participate in the voting process in a makeup meeting within two weeks.
+5. If a board member is aware in advance that they will be absent, they may nominate a proxy whom they will advise how best to represent their opinions.
 
 ## Consequences
 <!-- Describe the result/consequences of applying that decision; both positive and negative outcomes. -->
