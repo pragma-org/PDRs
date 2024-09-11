@@ -1,7 +1,7 @@
 ---
 PDR: 1
 Title: PRAGMA Decision Record Process
-Status: Proposed
+Status: Accepted
 Category: Process
 Created: 2024-05-24
 Authors :
