@@ -2,7 +2,7 @@
 PDR: 0002
 Title: PRAGMA administrative board - Voting process 
 Category: Process
-Status: Proposed 
+Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
     - Damien Czapla <damien.czapla@openthelead.com>
@@ -25,18 +25,13 @@ The board can only vote on procedural questions related to the association; they
 
 Each voting must comply with the following rules:
 
-1. The voting will have to take place with a set agenda, and the votes will be recorded in the minutes of the meeting by a designated Secretary for the meeting in [.validityreview][Archive];
-2. A quorum will be required for the decision-making to happen: at least four of five board members have to be present
-3. If there's a voting result that ends up with a tie (e.g., two votes accepted; two votes rejected), the decision will be postponed to a makeup meeting within two weeks, where the absent board member will have to be present to vote;
-4. If a board member is absent for two consecutive meetings, the board can ask the general assembly to elect a temporary board member who can participate in the voting process in a makeup meeting within two weeks.
-5. If a board member is aware in advance that they will be absent, they may nominate a proxy whom they will advise how best to represent their opinions.
+1. The voting will have to take place with a set agenda (normally sent out one week before the meeting), and the votes will be recorded in the minutes of the meeting by a designated Secretary for the meeting in [.validityreview][Archive].
+2. A quorum will be required for the decision-making to happen: at least four of five board members have to be present; if a board member is aware in advance that they will be absent, they may nominate a proxy from the board members (via email) whom they will advise how best to represent their opinions.
+3. The voting is done by show of hands or by equivalent electronic means; the vote can be "in favor" or "against".
+4. If there's a tie (e.g., two votes accepted; two votes rejected), the decision will be postponed to a makeup meeting within two weeks, where the absent board member will have to be present to vote; during that meeting if there is a tie again, the Lead Administrator has a casting vote.
 
 ## Consequences
-<!-- Describe the result/consequences of applying that decision; both positive and negative outcomes. -->
-<!-- If category is a Policy, describe how to measure the application of the policy on a project (qualitative or quantitative) by using metrics that can be understood by any internet user. -->
-
 ### Positive outcomes
-
 - Clarity in decision-making: a public voting process ensures that all board members 
   and interested parties know how decisions are made. 
   This process will reduce confusion and improve governance.
@@ -45,13 +40,10 @@ Each voting must comply with the following rules:
 - Efficiency: Clear rules for quorum and tie-breaking help to reduce the time on procedural issues.
 
 ### Negative outcomes
-
 - More bureaucracy: the voting process may slow down the decision making due to the reliance on meetings.
-- Deadlocks: when there is a tie, absent members may cause further delays of important decisions
 - Attendance requirement: board members' attendance is more important, especially for the quorum and tie-breaking procedure.
-- Temporary board members: temporary board members may lead to inconsistency in decision-making as they may not know all the issues behind the decisions.
 
 ## Discussion points
-<!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
+- Deadlocks: when there is a tie, absent members may cause further delays of important decisions
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
