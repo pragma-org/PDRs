@@ -39,6 +39,7 @@ and be it further
 RESOLVED, that the persons listed immediately below be and hereby are appointed to serve as the initial members of the PRAGMA Amaru MC:
 
 Santiago Carmuega
+
 Matthias Benkort
 
 NOW, THEREFORE, BE IT FURTHER RESOLVED, that Santiago and Matthias are appointed 
