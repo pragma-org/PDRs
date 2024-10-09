@@ -38,11 +38,10 @@ and be it further
 
 RESOLVED, that the persons listed immediately below be and hereby are appointed to serve as the initial members of the PRAGMA Amaru MC:
 
-<TO BE DONE>
-Jane Doe
-Joe Doe
+Santiago Carmuega
+Matthias Benkort
 
-NOW, THEREFORE, BE IT FURTHER RESOLVED, that <TO BE DONE> be and hereby is appointed 
+NOW, THEREFORE, BE IT FURTHER RESOLVED, that Santiago and Matthias are appointed 
 as lead maintainer, PRAGMA Amaru MC, to serve in accordance with and subject 
 to the direction of the Board of Directors and the Bylaws of the Foundation 
 until death, resignation, retirement, removal or disqualification, or until a 
