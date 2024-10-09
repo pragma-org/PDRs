@@ -38,9 +38,13 @@ and be it further
 
 RESOLVED, that the persons listed immediately below be and hereby are appointed to serve as the initial members of the PRAGMA Amaru MC:
 
-Santiago Carmuega
 
-Matthias Benkort
+| Santiago Carmuega <br/> [@scarmuega][] | Matthias Benkort <br/> [@KtorZ][] |
+| ---                               | ---          
+
+[@KtorZ]: https://github.com/ktorz
+[@scarmuega]: https://github.com/scarmuega
+
 
 NOW, THEREFORE, BE IT FURTHER RESOLVED, that Santiago and Matthias are appointed 
 as lead maintainer, PRAGMA Amaru MC, to serve in accordance with and subject 
