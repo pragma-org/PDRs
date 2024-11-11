@@ -42,7 +42,6 @@ Projects aiming to join PRAGMA must follow this process:
 - A project lead can submit a proposal to the board.
 - The board will review the proposal and accept the project as Incubating given the following reasons:
   - The project is aligned with PRAGMA's goals.
-  - The source code was developed solely by one or more members of PRAGMA
   - The source code original owners are willing to donate the project to PRAGMA
   - The project is not a fork of an existing project
   - The project does not have any legal issues, such as copyright infringement
@@ -61,7 +60,6 @@ an active PRAGMA Project and the transfer can start.
 ### Positive outcomes
 
 - Clarity in accepting or rejecting projects
-- Motivation for projects to join PRAGMA  
 - Protection from legal issues
 - Transparency in the process
 - Fairness in the decision-making process
