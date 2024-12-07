@@ -24,13 +24,12 @@ A clear process to accept projects will protect the foundation from potential le
 
 ## Decision
 
-PRAGMA differentiates between two types of projects:
-
- - PRAGMA Projects: projects that are fully recognized as part of PRAGMA and are part of the PRAGMA GitHub organization.
- - PRAGMA Incubating Projects: projects that are not yet part of PRAGMA but are in the process of joining.
- - PRAGMA Retired projects: projects that are retired from PRAGMA.
+PRAGMA currently only knows one type of project, which is a fully recognized
+project of PRAGMA. These projects are part of the PRAGMA GitHub organization.
 
 This PDR only describes the process of "direct acceptance" of a new project through the board.
+"Direct acceptance" means, that the board will review the proposed project and
+accepts it by a vote.
 
 ### Direct acceptance of new projects
 
