@@ -1,6 +1,6 @@
 ---
 PDR: 0003
-Title: Accepting new projects to PRAGMA
+Title: Directly accepting new projects to PRAGMA
 Category: Process
 Status: Proposed 
 Authors:
@@ -14,6 +14,8 @@ Created: 2024-08-01
 
 PRAGMA allows projects to join the association. 
 The process of accepting new projects is not formalized in PRAGMA's statutes.
+The current process describes, how projects can join PRAGMA at a low entry bar,
+when certain conditions are met.
 
 ## Motivation
 
@@ -23,21 +25,12 @@ A clear process to accept projects will protect the foundation from potential le
 
 ## Decision
 
-PRAGMA differentiates between two types of projects:
+PRAGMA currently only knows one type of project, which is a fully recognized
+project of PRAGMA. These projects are part of the PRAGMA GitHub organization.
 
- - PRAGMA Projects: projects that are fully recognized as part of PRAGMA and are part of the PRAGMA GitHub organization.
- - PRAGMA Incubating Projects: projects that are not yet part of PRAGMA but are in the process of joining.
-
-PRAGMA Incubating Projects can have the state of "incubating", "graduated" and "rejected".
-
-- Incubating projects are projects that are in the process of joining PRAGMA. They follow the same
-rules as active PRAGMA Projects but are not yet fully accepted.
-- Rejected projects are projects that have been rejected by the board. Incubation efforts will stop, and the project will be archived.
-- Graduated projects are projects that have been accepted by the board. In the future, graduated projects will be referred to as active PRAGMA Projects.
-
-### Accepting new projects
-
-Projects aiming to join PRAGMA must follow this process:
+This PDR only describes the process of "direct acceptance" of a new project through the board.
+"Direct acceptance" means, that the board will review the proposed project and
+accepts it by a vote.
 
 - A project lead can submit a proposal to the board.
 - The board will review the proposal and accept the project as Incubating given the following reasons:
@@ -53,9 +46,7 @@ Projects aiming to join PRAGMA must follow this process:
 As soon as there is a successful vote on the resolution, the project becomes
 an active PRAGMA Project and the transfer can start.
 
-## Consequences
-<!-- Describe the result/consequences of applying that decision; both positive and negative outcomes. -->
-<!-- If category is a Policy, describe how to measure the application of the policy on a project (qualitative or quantitative) by using metrics that can be understood by any internet user. -->
+## Discussion points
 
 ### Positive outcomes
 
@@ -67,8 +58,5 @@ an active PRAGMA Project and the transfer can start.
 ### Negative outcomes
 
 - The process may slow down the acceptance of projects
-
-## Discussion points
-<!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
