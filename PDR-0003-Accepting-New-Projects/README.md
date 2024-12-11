@@ -6,6 +6,7 @@ Status: Proposed
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
     - Damien Czapla <damien.czapla@openthelead.com>
+    - Christina Gianelloni <christina@blinklabs.io>
 Created: 2024-08-01
 ---
 
@@ -31,23 +32,31 @@ This PDR only describes the process of "direct acceptance" of a new project thro
 "Direct acceptance" means, that the board will review the proposed project and
 accepts it by a vote.
 
-### Direct acceptance of new projects
-
 - A project lead can submit a proposal to the board.
-- The board will review the proposal and accept the project given the following reasons:
+- The board will review the proposal and accept the project as Incubating given the following reasons:
   - The project is aligned with PRAGMA's goals.
-  - The source code was developed solely by one or more members of PRAGMA
   - The source code original owners are willing to donate the project to PRAGMA
   - The project is not a fork of an existing project
   - The project does not have any legal issues, such as copyright infringement
   - Trademarks are cleared and the owners are willing to donate them to PRAGMA
   - No other pressing reasons come up during the review
+       - While an incubating project, the project will have to demonstrate itself by a 1.0 release and two quarterly reports to the board of directors. Upon completion, the vote to accept the project will be added to the next board agenda. 
 - The board will vote on the resolution through the PDR process and accept or reject the project.
 
 As soon as there is a successful vote on the resolution, the project becomes
 an active PRAGMA Project and the transfer can start.
 
 ## Discussion points
-<!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
+
+### Positive outcomes
+
+- Clarity in accepting or rejecting projects
+- Protection from legal issues
+- Transparency in the process
+- Fairness in the decision-making process
+
+### Negative outcomes
+
+- The process may slow down the acceptance of projects
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
