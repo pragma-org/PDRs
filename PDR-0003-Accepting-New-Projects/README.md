@@ -26,7 +26,7 @@ The acceptance process will rely upon a set of criterias for each stage of the p
 
 > [!NOTE]
 > If you want to know more about these deciding bodies you can check: </br>
-> [.incorporation](README.md) for their composition </br>
+> [.incorporation](https://github.com/pragma-org/PDRs/tree/main/.incorporation) for their composition </br>
 > [Statutes](https://github.com/pragma-org/PDRs/blob/Dam-CZ-patch-3/.incorporation/20240422_Attachment_Statutes_Statuten_PRAGMA_signed.pdf) for their mandate
 
 You will find here the representation of the incubation process:
@@ -40,8 +40,8 @@ Here are the steps to go through the whole process:
 4. The General Assembly accepts the project and the project is fully migrated to PRAGMA 
 
 > [!TIP]
-> The Pragma Decision Record will follow the process described here [PDR-0001-Process](README.md) </br>
-> A reference template is available in [.github/PDR-Template.md](.github/PDR-TEMPLATE.md)
+> The Pragma Decision Record will follow the process described here [PDR-0001-Process](https://github.com/pragma-org/PDRs/tree/main/PDR-0001-Process) </br>
+> A reference template is available in [.github/PDR-Template.md](https://github.com/pragma-org/PDRs/blob/main/.github/PDR-TEMPLATE.md)
 
 PRAGMA differentiates between two types of projects:
  - PRAGMA Prospective Projects: projects that are not yet part of PRAGMA but are in the process of joining.
@@ -66,7 +66,7 @@ After submitting a PDR to this repository, the project owner is invited to a mee
 The Administrative Board will then vote to accept or reject the project.
 
 > [!NOTE]
-> The Administrative Board will vote according to the following rules: [PDR-0002-Voting](README.md)
+> The Administrative Board will vote according to the following rules: [PDR-0002-Voting](https://github.com/pragma-org/PDRs/tree/main/PDR-0002-Voting)
 
 Prospective projects can use PRAGMA's resources and are allowed to use the PRAGMA brand. </br>
 However, prospective projects must clarify that they are not yet part of PRAGMA and add a "Prospective" disclaimer to their communications.
