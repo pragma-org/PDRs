@@ -15,7 +15,7 @@ Aiken is a project that is meant to join PRAGMA.
 
 ## Decision
 
-According to the [Minutes of Meeting](https://github.com/pragma-org/PDRs/blob/main/PDR-0004-Resolution-Accept-Amaru/20240418_Meeting_Minutes_PRAGMA_Administrative_Board_signed.pdf) Amaru is a PRAGMA project.
+According to the [Minutes of Meeting](https://github.com/pragma-org/PDRs/blob/main/PDR-0004-Resolution-Accept-Amaru/20240418_Meeting_Minutes_PRAGMA_Administrative_Board_signed.pdf) Aiken is a PRAGMA project.
 
 The lead maintainer appointed at the time the project was welcomed into PRAGMA is:
 
