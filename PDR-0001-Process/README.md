@@ -22,11 +22,12 @@ PDRs aim to address the discussion and agreement on a common set of processes, r
 ## Decision
 PRAGMA will use this workflow to monitor and record all decisions regarding processes, policies & guidelines.
 
-We currently recognise and record three types of decisions:
+We currently recognise and record four types of decisions:
 
 - `Process`: decisions related to the overall process that must be applied by the PRAGMA organisation.
 - `Policy`: decisions that creates a rule that all lead maintainers must apply within their project environment
 - `Guidelines`: decisions that formalise a best practice from a project as a recommendation
+- `Proposals`: decisions that propose a new project to become part of PRAGMA
 
 ## Consequences
 The items described below detail the workflow, the stakeholders, and the documentation required to run the process.
