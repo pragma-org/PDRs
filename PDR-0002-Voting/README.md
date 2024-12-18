@@ -23,6 +23,8 @@ The approach used for this process should be based on a consensus mechanism.
 
 The board can only vote on procedural questions related to the association; they will use the [PRAGMA Decision Record process](../PDR-0001-Process/README.md) to document them.
 
+The board will be voting using a "majority vote" rule, meaning once three board members have voted "in favor" a decision is accepted.
+
 Each voting must comply with the following rules:
 
 1. The voting will have to take place with a set agenda (normally sent out one week before the meeting), and the votes will be recorded in the minutes of the meeting by a designated Secretary for the meeting in [.validityreview][Archive].
