@@ -1,8 +1,8 @@
 ---
-PDR: 0003
+PDR: 0004
 Title: Accept Amaru as a PRAGMA project
 Category: Resolution
-Status: Proposed 
+Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
     - Damien Czapla <damien.czapla@openthelead.com>
