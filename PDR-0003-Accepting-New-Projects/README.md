@@ -16,7 +16,8 @@ PRAGMA allows projects to join the association. The process of accepting new pro
 
 ## Motivation
 
-Welcoming projects within PRAGMA needs rules to ensure that the projects are a good fit and the association's goals are met. The acceptance process should be transparent and fair.
+Welcoming projects within PRAGMA needs rules to ensure that the projects are a good fit and the association's goals are met.  
+The acceptance process should be transparent and fair.
 
 ## Decision
 
@@ -24,7 +25,7 @@ Acceptance will rely upon completing a set of criteria for each stage of the pro
 
 > [!NOTE]
 > If you want to know more about these deciding bodies you can check: </br>
-> [.incorporation](https://github.com/pragma-org/PDRs/tree/main/.incorporation) for their composition and [Statutes](https://github.com/pragma-org/PDRs/blob/Dam-CZ-patch-3/.incorporation/20240422_Attachment_Statutes_Statuten_PRAGMA_signed.pdf) for their mandate
+> [.incorporation](https://github.com/pragma-org/PDRs/tree/main/.incorporation) for their composition and [Statutes](https://github.com/pragma-org/PDRs/blob/main/.incorporation/20240422_Attachment_Statutes_Statuten_PRAGMA_signed.pdf) for their mandate
 
 Here is a high level overview of the entire process:
 1. A project owner submits a PDR through a pull request on Github requesting to join.
@@ -33,7 +34,7 @@ Here is a high level overview of the entire process:
 4. The General Assembly accepts the project, the Maintainer Committee is created and the project is fully migrated to PRAGMA 
 
 > [!TIP]
-> The Pragma Decision Record will follow the process described here [PDR-0001-Process](https://github.com/pragma-org/PDRs/tree/main/PDR-0001-Process) </br>
+> The Pragma Decision Record will follow the process described here [PDR-0001-Process](https://github.com/pragma-org/PDRs/tree/main/PDR-0001-Process)  
 > A reference template is available in [.github/PDR-Template.md](https://github.com/pragma-org/PDRs/blob/main/.github/PDR-TEMPLATE.md)
 
 ### A few definitions
@@ -48,7 +49,7 @@ PRAGMA projects can have the state of "incubating", "active" and "archived"
 - Archived projects are projects that were not approved or otherwise discontinued.</br>
 
 Here is a representation of the incubation process:
-![PRAGMA](https://github.com/user-attachments/assets/8b4866ee-e165-440c-ac72-74d4be18788a)
+![PRAGMA](https://github.com/user-attachments/assets/ed627a82-3700-4467-b990-d69eaf35f11b)
 
 ### Incubating Project phase
 
@@ -69,10 +70,10 @@ Incubating Projects can use PRAGMA's resources and are allowed to use the PRAGMA
 
 ### Mentoring
 
-Once becoming an Incubating Project, the project will have a mentor designated, it will be either: an Administrative Board member, a PRAGMA member, or a PRAGMA maintainer. 
-The mentor will guide the project through the incubation phase and support it by answering any questions the project might have. 
-The mentor will take care that the Administrative Board report is sent in time and clarify reporting related topics.
-The mentor will work with the project and provide them guidance and support to meet the requirements for a successful graduation.
+Once becoming an Incubating Project, the project will have a mentor designated, it will be either: an Administrative Board member, a PRAGMA member, or a PRAGMA maintainer.   
+The mentor will guide the project through the incubation phase and support it by answering any questions the project might have.  
+The mentor will take care that the Administrative Board report is sent in time and clarify reporting related topics.  
+The mentor will work with the project and provide them guidance and support to meet the requirements for a successful graduation.  
 
 ### Becoming a PRAGMA Project
 
@@ -87,8 +88,7 @@ After receiving succesful quarterly reviews, the Administrative Board can propos
 - The project provides timely quarterly reports.
 - The project's name is clear and free of trademark disputes, cultural appropriation, and other issues.
 - The source code was either only developed by project team members or accepted by using a DCO.
-- The source code is published in the PRAGMA GitHub organization.
-- The source code is licensed under a PRAGMA-approved license.
+- The source code is licensed under a PRAGMA-approved license with PRAGMA as the owner.
 
 As soon as there is a successful vote by the General Assembly, the project becomes an active PRAGMA Project.
 
