@@ -61,12 +61,17 @@ After submitting a PDR to this repository, the project owner is invited to a mee
   - The project has a clear roadmap aligned with its objectives,
   - No other pressing reasons come up during the review.
 
-The Administrative Board will then vote to accept or reject the project. An accepted Prospective Project then begins Incubation. During Incubation the Incubating Project will be assigned a mentor within PRAGMA's members to assist in navigating this process. 
-
-Incubating Projects can use PRAGMA's resources and are allowed to use the PRAGMA brand. However, Incubating Projects must clarify that they are not yet part of PRAGMA and add a "Incubating" disclaimer to their communications.
-
+The Administrative Board will then vote to accept or reject the project. 
 > [!NOTE]
 > The Administrative Board will vote according to the following rules: [PDR-0002-Voting](https://github.com/pragma-org/PDRs/tree/main/PDR-0002-Voting)
+
+
+An accepted project then begins Incubation and becomes a "PRAGMA Incubating Project".  
+During Incubation the Incubating Project will be assigned a mentor within PRAGMA's members to assist in navigating this process. 
+
+Incubating Projects can use PRAGMA's resources and are allowed to use the PRAGMA brand.  
+However, Incubating Projects must clarify that they are not yet part of PRAGMA and add a "Incubating" disclaimer to their communications.
+
 
 ### Mentoring
 
