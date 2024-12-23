@@ -118,11 +118,10 @@ Archived projects are read-only, do not need to be reported, and will be labeled
 
 Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
 
-:thumbsup: Christina Gianelloni @musik-c
+:thumbsup: Christina Gianelloni @musik-c Sebastian Bode @cleanerm5
 </br>
 :thumbsdown: 
 </br>
 Federico Weill @federicoweill, 
-Sebastian Bode @cleanerm5, 
 Daniel Gonzalez @gonzalaga, 
 Christian Grobmeier @grobmeier
