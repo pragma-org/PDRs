@@ -54,8 +54,8 @@ Reports are due 5 days before the end of a quarter at the latest.
 
 Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
 
-:thumbsup: Christina Gianelloni @musik-c</br>
+:thumbsup: Christina Gianelloni @musik-c, Sebastian Bode @cleanerm5</br>
 :thumbsdown: </br>
-Federico Weill @federicoweill, Sebastian Bode @cleanerm5, Daniel Gonzalez @gonzalaga, Christian Grobmeier @grobmeier
+Federico Weill @federicoweill, Daniel Gonzalez @gonzalaga, Christian Grobmeier @grobmeier
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
