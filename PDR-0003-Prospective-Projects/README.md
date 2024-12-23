@@ -113,3 +113,11 @@ Archived projects are read-only, do not need to be reported, and will be labeled
 ### Negative outcomes
 
 - The process may slow down the acceptance of projects
+
+## Voting 
+
+- [ ] Christina Gianelloni @musik-c
+- [ ] Federico Weill @federicoweill
+- [ ] Sebastian Bode @cleanerm5
+- [ ] Daniel Gonzalez @gonzalaga
+- [ ] Christian Grobmeier @grobmeier
