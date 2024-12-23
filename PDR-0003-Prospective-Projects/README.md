@@ -114,10 +114,15 @@ Archived projects are read-only, do not need to be reported, and will be labeled
 
 - The process may slow down the acceptance of projects
 
-## Voting 
+## Electronic Voting 
 
-- [ ] Christina Gianelloni @musik-c
-- [ ] Federico Weill @federicoweill
-- [ ] Sebastian Bode @cleanerm5
-- [ ] Daniel Gonzalez @gonzalaga
-- [ ] Christian Grobmeier @grobmeier
+Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
+
+:thumbsup: Christina Gianelloni @musik-c
+</br>
+:thumbsdown: 
+</br>
+Federico Weill @federicoweill, 
+Sebastian Bode @cleanerm5, 
+Daniel Gonzalez @gonzalaga, 
+Christian Grobmeier @grobmeier
