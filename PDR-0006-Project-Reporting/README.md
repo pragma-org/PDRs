@@ -40,6 +40,22 @@ The reports should be added to the PRAGMA board git repository.
 Reports are due 5 days before the end of a quarter at the latest.
 
 ## Discussion points
-<!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
+
+### Positive outcomes
+
+- Clarity in reporting expectations
+- Transparency of PRAGMA projects
+
+### Negative outcomes
+
+- Reporting is additional work for projects
+
+## Electronic Voting 
+
+Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
+
+:thumbsup: Christina Gianelloni @musik-c</br>
+:thumbsdown: </br>
+Federico Weill @federicoweill, Sebastian Bode @cleanerm5, Daniel Gonzalez @gonzalaga, Christian Grobmeier @grobmeier
 
 [Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
