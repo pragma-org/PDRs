@@ -1,6 +1,6 @@
 ---
 PDR: 0003
-Title: Accepting new projects to PRAGMA
+Title: Prospective Projects
 Category: Process
 Status: Proposed 
 Authors:
