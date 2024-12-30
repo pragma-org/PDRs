@@ -53,10 +53,10 @@ Reports are due 5 days before the end of a quarter at the latest.
 
 Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
 
-:thumbsup: Christina Gianelloni @musik-c, Sebastian Bode @cleanerm5</br>
+:thumbsup: Sebastian Bode @cleanerm5</br>
 :thumbsdown: </br>
 
 Votes not casted yet:  
-Federico Weill @federicoweill, Daniel Gonzalez @gonzalaga, Christian Grobmeier @grobmeier
+Federico Weill @federicoweill, Daniel Gonzalez @gonzalaga, Christian Grobmeier @grobmeier, Christina Gianelloni @musik-c, 
 
 <!--- Open Security issues discussion: The board agreed that it's an important matter to be discussed with the maintainers but the result of the discussion shouldn't appear in a public report  --> 
