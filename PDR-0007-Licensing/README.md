@@ -1,7 +1,7 @@
 ---
 PDR: 0007
 Title: PRAGMA Licensing
-Category: Process
+Category: Policy
 Status: Proposed 
 Authors:
  - Christian Grobmeier <cg@grobmeier.de>
@@ -10,9 +10,21 @@ Created: 2024-08-01
 
 ## Context
 
-Every Open-Source project needs a license. PRAGMA must decide whether one or multiple licenses are recommended or enforced on projects. This decision will impact the discussion about the "identity of the foundation."
+Every Open-Source project needs a license.  
+PRAGMA must decide whether one or multiple licenses are recommended or enforced on projects.  
+This decision will impact the discussion about the "identity of the foundation."
 
-## Background
+## Decision
+
+Open source projects under PRAGMA will have to use the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (ALv2) for their projects.  
+The projects can use other open source license but the decision and the reasonning behind choosing another license will have to be agreed with the Administrative board of PRAGMA in a quarterly review.  
+The projects under PRAGMA also have access to our partner: [prins](https://prins.swiss/en/) who can advise on the best strategy regarding Intellectual Property strategy.
+
+## Consequences
+
+This section is meant to be informative and will evolve depending on the usecases and understanding of the various licenses existing.
+<!--- To do Christian: Rework that section to describe the types of protection that comes with use cases and licensing (copyleft) (copyright) and illustrate which types of licensing has which pros&cons for each situtation
+
 
 Various Open Source Foundations solve this differently. 
 
@@ -134,6 +146,8 @@ With ALv2:
  - A third party can sue developers (contributors) if the code infringes on their patents.
  - Users are protected from developers (contributors), but they can be sued by third parties like BETA.
 
+ --> 
+
 ### Outcomes
 
 - Guidelines on what to use and what not
@@ -151,4 +165,3 @@ With ALv2:
 ## Discussion points
 <!-- Summarizes, a posteriori, the major discussion points that gravitates around the decision -->
 
-[Archive]: https://github.com/pragma-org/PDRs/tree/main/.validityreview
