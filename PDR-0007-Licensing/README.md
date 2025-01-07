@@ -5,20 +5,22 @@ Category: Policy
 Status: Proposed 
 Authors:
  - Christian Grobmeier <cg@grobmeier.de>
+ - Damien Czapla <damien.czapla@openthelead.com>
+ - Sebastian Bode <sebastian.bode@cardanofoundation.org>
 Created: 2024-08-01
 ---
 
 ## Context
 
-Every Open-Source project needs a license.  
-PRAGMA must decide whether one or multiple licenses are recommended or enforced on projects.  
-This decision will impact the discussion about the "identity of the foundation."
+Every Open-Source project needs a license (see discussion [here](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license) and more elaborate explanation [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-license)).
+PRAGMA must decide whether one or multiple license types (e.g. MIT, MPL, Apache License version 2.0) are recommended or enforced on projects.
+The decision subject to this PDR will impact the discussion about the *identity of the association*.
 
 ## Decision
 
-Open source projects under PRAGMA will have to use the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (ALv2) for their projects.  
-The projects can use other open source license but the decision and the reasonning behind choosing another license will have to be agreed with the Administrative board of PRAGMA in a quarterly review.  
-The projects under PRAGMA also have access to our partner: [prins](https://prins.swiss/en/) who can advise on the best strategy regarding Intellectual Property strategy.
+Open source projects under PRAGMA will have to use the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (ALv2) for their projects.
+Projects under PRAGMA can use other open source license types but the decision and the reasonning behind choosing another license type will have to be agreed with the Administrative board of PRAGMA.
+Projects under PRAGMA also have access to our legal partner (currently [PRINS](https://prins.swiss/en/)) who can advise on the best strategy regarding Intellectual Property rights.
 
 ## Consequences
 
@@ -26,7 +28,7 @@ This section is meant to be informative and will evolve depending on the usecase
 <!--- To do Christian: Rework that section to describe the types of protection that comes with use cases and licensing (copyleft) (copyright) and illustrate which types of licensing has which pros&cons for each situtation
 
 
-Various Open Source Foundations solve this differently. 
+Various Open Source Organizations solve this differently. 
 
 - Apache Software Foundation: uses Apache License 2.0 exclusively.
 - Free Software Foundation (FSF): GPL, LPGL, AGPL, FDL.
@@ -156,7 +158,7 @@ With ALv2:
 
 ### Questions
 
-- Which industry is PRAGMA targeting? What are the preferred licenses?
+- Which industry are projects under PRAGMA targeting? What are the preferred licenses?
 - What kind of philosophy do we want to carry?
 - Why do we need other permissive licenses, when ALv2 is already permissive?
 - How do we handle the legal overhead?
