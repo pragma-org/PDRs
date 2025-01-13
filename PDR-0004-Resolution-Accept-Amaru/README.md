@@ -1,7 +1,7 @@
 ---
 PDR: 0004
 Title: Accept Amaru as a PRAGMA project
-Category: Resolution
+Category: Proposals
 Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
