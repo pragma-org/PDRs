@@ -2,7 +2,7 @@
 PDR: 0007
 Title: PRAGMA Licensing
 Category: Policy
-Status: Proposed 
+Status: Accepted 
 Authors:
  - Christian Grobmeier <cg@grobmeier.de>
 Created: 2024-08-01
