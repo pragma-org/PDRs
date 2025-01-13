@@ -1,7 +1,7 @@
 ---
 PDR: 0005
 Title: Accept Aiken as a PRAGMA project
-Category: Resolution
+Category: Proposals
 Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
