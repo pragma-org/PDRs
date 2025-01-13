@@ -2,7 +2,7 @@
 PDR: 0005
 Title: Accept Aiken as a PRAGMA project
 Category: Resolution
-Status: Proposed 
+Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
     - Damien Czapla <damien.czapla@openthelead.com>
