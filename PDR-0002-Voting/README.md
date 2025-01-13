@@ -31,6 +31,11 @@ Each voting must comply with the following rules:
 2. A quorum will be required for the decision-making to happen: at least four of five board members have to be present; if a board member is aware in advance that they will be absent, they may nominate a proxy from the board members (via email) whom they will advise how best to represent their opinions.
 3. The voting is done by show of hands or by equivalent electronic means; the vote can be "in favor" or "against".
 4. If there's a tie (e.g., two votes accepted; two votes rejected), the decision will be postponed to a makeup meeting within two weeks, where the absent board member will have to be present to vote; during that meeting if there is a tie again, the Lead Administrator has a casting vote.
+5. All Pull Requests in the PDR GitHub repository require the approval of 3 board members automatically before it can be merged. This should be completed before the meeting is concluded by the approving members. 
+
+### Electronic Votes
+1. Electronic votes should be held via the GitHub Pull Request approval process, also documenting the approval for all to see.
+2. All Pull Requests in the PDR GitHub repository require the approval of 3 board members automatically before it can be merged. The remaining members should still cast their vote so it may be recorded. 
 
 ## Consequences
 ### Positive outcomes
