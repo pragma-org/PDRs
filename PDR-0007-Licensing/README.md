@@ -18,9 +18,9 @@ The decision subject to this PDR will impact the discussion about the *identity 
 
 ## Decision
 
-Open source projects under PRAGMA will have to use the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (ALv2) for their projects.
-Projects under PRAGMA can use other open source license types but the decision and the reasonning behind choosing another license type will have to be agreed with the Administrative board of PRAGMA.
-Projects under PRAGMA also have access to our legal partner (currently [PRINS](https://prins.swiss/en/)) who can advise on the best strategy regarding Intellectual Property rights.
+Open source projects under PRAGMA should use the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0) (ALv2) for their projects.  
+The projects can use other open source license but the decision and the reasonning behind choosing another license will have to be agreed with the Administrative board of PRAGMA while onboarding.  
+The projects under PRAGMA also have access to our current partner who can advise on the best strategy regarding Intellectual Property strategy.  
 
 ## Consequences
 
