@@ -2,7 +2,7 @@
 PDR: 0003
 Title: Prospective Projects
 Category: Process
-Status: Proposed 
+Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
     - Damien Czapla <damien.czapla@openthelead.com>

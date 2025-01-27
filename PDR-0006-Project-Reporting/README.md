@@ -2,7 +2,7 @@
 PDR: 0006
 Title: Proposal for Project Reporting
 Category: Resolution
-Status: Proposed 
+Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
 Created: 2024-10-09
