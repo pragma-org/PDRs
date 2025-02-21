@@ -9,7 +9,7 @@ Created: 2025-02-16
 ---
 
 ## Context
-The statutes clearly call out the need for Maintainer Committees and Leads therein. However that information is spread throughout the statutes and at times leaves room for ambiguity. They organize, manage and implement a software project and will need guidance on the expectations and requirements within PRAGMA. 
+The [Statutes](https://github.com/pragma-org/PDRs/blob/main/.incorporation/20240422_Attachment_Statutes_Statuten_PRAGMA_signed.pdf) clearly call out the need for Maintainer Committees and Leads therein. However that information is spread throughout the statutes and at times leaves room for ambiguity. They organize, manage and implement a software project and will need guidance on the expectations and requirements within PRAGMA. 
 
 ## Motivation
 Clearly defining the structure and responsibilities of the Maintainer Committees and their Leads are essential for accountability, transparency and efficiency.
