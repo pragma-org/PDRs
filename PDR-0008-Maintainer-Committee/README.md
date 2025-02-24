@@ -29,15 +29,15 @@ Maintainer Committees
 Maintainer Committee Leads
  - Selection: Maintainer Committee Leads are appointed by the Administrative Board. 
  - Responsibilities:
-  - Initial Members: Upon appointment, the Lead appoints the other initial members. 
-  - Initial Setup: Document the Committees organization, responsibilities and authority and submit it to the Administrative Board for approval expeditiously upon appointment. 
-  - Facilitation: Organizing and leading MC meetings and discussions.
-  - Conflict Resolution: Addressing and mediating disputes within the MC or among contributors.
-  - Delegation: Assigning tasks and ensuring fair distribution of responsibilities among MC members.
-  - Representation: Serving as the primary liaison between the MC and the Administrative Board or other committees. 
-    - They will work with the Administrative Board regarding services, such as Corporate housekeeping support, Intellectual Property support, etc. 
-    - They will ensure the MC is in compliance with PRAGMA rules and regulations, to include licensing, security, etc. 
-  - Reports: Submitting quarterly reports to the Administrative Board, due 5 days before the end of a quarter.
+   - Initial Members: Upon appointment, the Lead appoints the other initial members. 
+   - Initial Setup: Document the Committees organization, responsibilities and authority and submit it to the Administrative Board for approval expeditiously upon appointment. 
+   - Facilitation: Organizing and leading MC meetings and discussions.
+   - Conflict Resolution: Addressing and mediating disputes within the MC or among contributors.
+   - Delegation: Assigning tasks and ensuring fair distribution of responsibilities among MC members.
+   - Representation: Serving as the primary liaison between the MC and the Administrative Board or other committees. 
+     - They will work with the Administrative Board regarding services, such as Corporate housekeeping support, Intellectual Property support, etc. 
+     - They will ensure the MC is in compliance with PRAGMA rules and regulations, to include licensing, security, etc. 
+   - Reports: Submitting quarterly reports to the Administrative Board, due 5 days before the end of a quarter.
 
 
 ## Consequences
