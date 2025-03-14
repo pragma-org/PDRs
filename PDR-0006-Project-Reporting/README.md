@@ -1,7 +1,7 @@
 ---
 PDR: 0006
 Title: Proposal for Project Reporting
-Category: Resolution
+Category: Policy
 Status: Accepted 
 Authors:
     - Christian Grobmeier <cg@grobmeier.de>
