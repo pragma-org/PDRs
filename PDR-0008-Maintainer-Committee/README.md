@@ -1,8 +1,8 @@
 ---
-PDR: ?
+PDR: 8
 Title: Maintainer Committees
 Category: Guidelines
-Status: Pending
+Status: Accepted
 Authors:
     - Christina Gianelloni <christina@blinklabs.io> 
 Created: 2025-02-16
