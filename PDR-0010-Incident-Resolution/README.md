@@ -2,7 +2,7 @@
 PDR: 0010
 Title: Incident Resolution
 Category: Process
-Status: Pending 
+Status: Accepted 
 Authors:
     - Christina Gianelloni <christina@blinklabs.io>
 Created: 2025-03-13
