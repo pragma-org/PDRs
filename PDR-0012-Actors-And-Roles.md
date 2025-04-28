@@ -86,7 +86,7 @@ The administrative board is the interface between the general assembly and the r
 
 - [x] Development of strategic direction for PRAGMA, subject to approval by the general assembly;
 - [x] Implementation, management, and oversight of the administration of PRAGMA, including:
-    - [x] Establishing a policy concerning the use of intellectual property in the association.\
+    - [x] Establishing a policy concerning the use of intellectual property in the association.
     - [x] Interfacing with maintainer committees
     - [x] Organisation of the general assembly and reporting to the general assembly on all activities of PRAGMA;
 - [x] Organisation and management of the services provided to members, including selection and appointment of appropriate service providers;
