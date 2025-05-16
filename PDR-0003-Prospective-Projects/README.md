@@ -29,7 +29,7 @@ Acceptance will rely upon completing a set of criteria for each stage of the pro
 
 Here is a high level overview of the entire process:
 1. A project owner submits a PDR through a pull request on Github requesting to join.
-2. The Administrative Board reviews the PDR created and confirms the compliance of the project with the acceptance criteria, potentially then approving for Incubation. A mentor is assigned.
+2. The Administrative Board reviews the PDR created and confirms the compliance of the project with the acceptance criteria, potentially then approving for Incubation. A Guide is then assigned.
 3. The project (after several succesful quarterly meetings) is proposed to the General Assembly by the Administrative Board
 4. The General Assembly accepts the project, the Maintainer Committee is created and the project is fully migrated to PRAGMA 
 
@@ -67,18 +67,18 @@ The Administrative Board will then vote to accept or reject the project.
 
 
 An accepted project then begins Incubation and becomes a "PRAGMA Incubating Project".  
-During Incubation the Incubating Project will be assigned a mentor within PRAGMA's members to assist in navigating this process. 
+During Incubation the Incubating Project will be assigned a Guide within PRAGMA's members to assist in navigating this process. 
 
 Incubating Projects can use PRAGMA's resources and are allowed to use the PRAGMA brand.  
 However, Incubating Projects must clarify that they are not yet part of PRAGMA and add a "Incubating" disclaimer to their communications.
 
 
-### Mentoring
+### An Incubation Guide
 
-Once becoming an Incubating Project, the project will have a mentor designated, it will be either: an Administrative Board member, a PRAGMA member, or a PRAGMA maintainer.   
-The mentor will guide the project through the incubation phase and support it by answering any questions the project might have.  
-The mentor will take care that the Administrative Board report is sent in time and clarify reporting related topics.  
-The mentor will work with the project and provide them guidance and support to meet the requirements for a successful graduation.  
+Once becoming an Incubating Project, the project will have a Guide designated, it will be either: an Administrative Board member, a PRAGMA member, or a PRAGMA maintainer.   
+The Guide will assist the project through the incubation phase and support it by answering any questions the project might have.  
+The Guide will take care that the Administrative Board report is sent in time and clarify reporting related topics.  
+The Guide will work with the project and provide them guidance and support to meet the requirements for a successful graduation.  
 
 ### Becoming a PRAGMA Project
 
@@ -113,14 +113,4 @@ Archived projects are read-only, do not need to be reported, and will be labeled
 ### Negative outcomes
 
 - The process may slow down the acceptance of projects
-
-## Electronic Voting 
-
-Please indicate by putting your name with either the :thumbsup: or :thumbsdown: 
-
-:thumbsup: Christina Gianelloni @musik-c Sebastian Bode @cleanerm5 Federico Weill @federicoweill Christian Grobmeier @grobmeier
-</br>
-:thumbsdown: 
-</br>
-Daniel Gonzalez @gonzalaga, 
 
