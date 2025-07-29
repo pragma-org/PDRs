@@ -21,7 +21,7 @@ Here are the elected member of the Administrative board:
 | ---                               | ---                                           | ---                            | ---                            | ---                             |
 
 [@musik-c]: https://github.com/musik-c
-[@grobmeier]: https://github.com/grobmeier
+[@mmahut]: https://github.com/mmahut
 [@federicoweill]: https://github.com/federicoweill
 [@gonzalaga]: https://github.com/gonzalaga
 [@cleanerm5]: https://github.com/cleanerm5
