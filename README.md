@@ -11,15 +11,22 @@ PRAGMA as an open source organisation intends PDRs to be the primary mechanism f
 
 Extend or discuss ‘ideas’ in the [PRAGMA Discord](https://discord.gg/fUyPWjBcKE).
 
-PRAGMA board members will review discussions in monthly meetings, transcribe and summarise them [in the validity review](.validityreview/).
+PRAGMA Board members will review discussions in monthly meetings, transcribe and summarise them [in the validity review](.validityreview/).
 
-## PRAGMA board members
+## PRAGMA Board members
 
-| Christina Gianelloni <br/> [@musik-c][] | Christian Grobmeier <br/> [@grobmeier][] |Daniel Gonzalez <br/> [@gonzalaga][] |  Federico Weill <br/> [@federicoweill][] | Sebastian Bode <br/> [@cleanerm5][] |
+| Christina Gianelloni <br/> [@musik-c][] | Marek Mahut <br/> [@mmahut][] |Daniel Gonzalez <br/> [@gonzalaga][] |  Federico Weill <br/> [@federicoweill][] | Sebastian Bode <br/> [@cleanerm5][] |
 | ---                               | ---                                           | ---                            | ---                            | ---                             |
 
 [@musik-c]: https://github.com/musik-c
-[@grobmeier]: https://github.com/grobmeier
+[@mmahut]: https://github.com/mmahut
 [@federicoweill]: https://github.com/federicoweill
 [@gonzalaga]: https://github.com/gonzalaga
 [@cleanerm5]: https://github.com/cleanerm5
+
+## PRAGMA Board Secretary
+
+| Beatrice Anihiri <br/> [@opacular][] |
+| ---                             |
+
+[@opacular]: https://github.com/opacular 
