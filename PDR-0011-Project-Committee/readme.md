@@ -23,7 +23,7 @@ Created: 2025-10-18
    - Applicants should demonstrate relevant experience in open-source development, governance, community management, or blockchain-related technology.  
    - Efforts should be made to ensure diversity in geography, professional background and ecosystem representation.  
 2. **Number of Members**  
-   - The Committee shall consist of a minimum of **five (5)** and a maximum of **nine (9)** members, depending on workload and project volume.  
+   - The Committee shall consist of a minimum of **three (3)** and a maximum of **five (5)** members, depending on workload and project volume.  
 3. **Application & Selection Process**  
    - The AB shall issue a **public call for applications** at least 30 days prior to appointments, describing the role, expected workload and selection criteria.  
    - Interested individuals submit an application outlining their background, qualifications and potential conflicts of interest.  
@@ -60,22 +60,27 @@ The PC operates under delegation from the AB to manage the following responsibil
 ### A. Evaluation & Selection  
 - Review **Prospective Project** submissions (per PDR-0003) to ensure:  
   - Alignment with PRAGMA’s goals and vision.  
-  - Open-source licensing with PRAGMA as owner.  
+  - Open-source licensing willing to donate to PRAGMA.  
   - Legal and IP soundness.  
-  - Minimum contributor base (≥3 active contributors).  
-  - Three acceptable releases demonstrating sustainability.  
-  - Compliance with a DCO and contribution policies.  
+  - Has a clear roadmap alligned with its objectives
 - Conduct follow-up interviews or Q&A when necessary.  
 - Provide written recommendations and scores to the AB for decision.
 
 ### B. Oversight of Incubating Projects  
-- Assign a **Guide** or liaison for each incubating project.  
+- Assign a **Guide** essentially a liaison for each incubating project.  
 - Review and assess quarterly reports, ensuring timely submission and transparency.  
 - Validate adherence to roadmap, governance model and PRAGMA’s ethical and legal standards.  
 - Identify at-risk projects and recommend interventions or discontinuation.
 
 ### C. Transition to Maintainer Committee  
-- After multiple successful quarters, prepare recommendations to the AB for **GA referral** to establish a Maintainer Committee (per Article 5(2) of the Statutes).  
+- After multiple successful quarters, prepare recommendations to the AB for **GA referral** to establish a Maintainer Committee (per Article 5(2) of the Statutes).  The decision to accept or reject the project is based on meeting the following requirements:
+  - The project must have more than three active contributors.
+  - The project must have demonstrated its ability to grow by offering a clear path to join its new contributors.
+  - The project made at least three, acceptable releases.
+  - The project provides timely quarterly reports.
+  - The project's name is clear and free of trademark disputes, cultural appropriation, and other issues.
+  - The source code was either only developed by project team members or accepted by using a DCO.
+  - The source code is licensed under a PRAGMA-approved license with PRAGMA as the owner.
 - Ensure each new Maintainer Committee submits its organizational regulations for AB approval.
 
 ### D. Reporting & Documentation  
@@ -94,10 +99,10 @@ The PC operates under delegation from the AB to manage the following responsibil
 ## VII. Application Workflow  
 1. **Call for Applications:** PC announces open calls for new projects at least **twice per year**.  
 2. **Submission:** Applicants complete a standardized form (per PDR-0003) and submit required materials.  
-3. **Review:** PC verifies completeness and evaluates proposals.  
-4. **Recommendation:** Projects meeting criteria are forwarded to the AB for approval or rejection.  
+3. **Review:** PC verifies completeness and evaluates proposals, selecting to make recommendations.
+4. **Recommendation:** Recommended projects forwarded to the AB for approval or rejection.  
 5. **Incubation Phase:** Approved projects enter incubation under PC oversight.  
-6. **Graduation:** After three releases, the PC may recommend project graduation to the AB for approval or rejection.
+6. **Graduation:** After three releases, the PC may recommend project graduation to the AB for approval or rejection if acceptance criteria has been met.
 
 ## VIII. Conflict of Interest  
 - All members must disclose actual or potential conflicts, including employment or funding ties to projects under review.  
