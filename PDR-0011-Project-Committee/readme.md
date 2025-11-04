@@ -25,14 +25,14 @@ Created: 2025-10-18
 2. **Number of Members**  
    - The Committee shall consist of a minimum of **three (3)** and a maximum of **five (5)** members, depending on workload and project volume.  
 3. **Application & Selection Process**  
-   - The AB shall issue a **public call for applications** at least 30 days prior to appointments, describing the role, expected workload and selection criteria.  
+   - The AB shall issue a **public call for applications**, describing the role, expected workload and selection criteria.  
    - Interested individuals submit an application outlining their background, qualifications and potential conflicts of interest.  
    - The AB reviews all submissions and appoints members by majority vote, based on merit, expertise and balance across disciplines.  
 4. **Term of Service**  
    - PC members serve a **one-year renewable term**.  
    - Vacancies during the term may be filled by the AB for the remainder of that term.  
 5. **Removal**  
-   - Members may be removed by a two-thirds vote of the AB for cause (misconduct, breach of confidentiality, or repeated non-participation).  
+   - Members may be removed by majority vote of the AB for cause (misconduct, breach of confidentiality, or repeated non-participation).  
    - Members may resign in writing at any time.
 
 ## III. Officers  
