@@ -32,11 +32,14 @@ We’re looking for individuals who:
  - Demonstrate objectivity, discretion, and professionalism in evaluating proposals.
  - Can commit a few hours per month for reviews and coordination.
  - Value collaboration, diversity of thought, and consensus-building.
+ - Adherence to PRAGMA's [Code of Conduct](https://github.com/pragma-org/PDRs/blob/main/CODE_OF_CONDUCT.md)
 
 ## Term and Commitment
- - Appointments are made by the Administrative Board.
+   - The Administrative Board issues a public call for applications, describing the role, expected workload and selection criteria. The AB reviews all submissions and appoints members by majority vote.
  - The initial term is 12 months, with the option for renewal.
  - Expected time commitment: 2–4 hours per month (more during evaluation cycles, twice annually).
+ - Members may resign in writing at any time.
+ - Members may be removed by a majority vote of the AB for cause (misconduct, breach of confidentiality, or repeated non-participation).  
 
 ## Benefits
  - Contribute to shaping the growth of open source projects in the Cardano ecosystem.
