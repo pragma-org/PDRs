@@ -2,7 +2,7 @@
 PDR: 11
 Title: Project Committee
 Category: Process
-Status: Pending
+Status: Approved
 Authors:
     - Christina Gianelloni <christina@blinklabs.io> 
 Created: 2025-10-18
