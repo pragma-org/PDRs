@@ -25,7 +25,8 @@ Maintainer Committees
       - A soft conflict (working at the same company as the member being considered for removal without a close relationship, or other circumstances that give the appearance of a conflict) must be declared and recorded; the Administrative Board decides whether recusal is required.
     - Removing the Lead requires a unanimous vote in favor from all other eligible committee members. Abstention or silence does not count as agreement.
     - Removing another member requires yes votes from at least two thirds of the members eligible to vote, not only of those who vote.
-    - The committee will document the decision, including the vote, reasons and effective date, notify the member and the Administrative Board and update its membership record. Notice to the Board is for information and is not a condition of the decision taking effect.
+        - The committee will document the decision, including the vote, reasons and effective date, notify the member and the Administrative Board, update its membership record, and revoke all of the member's access to project accounts and credentials (code hosting, package publishing, web and DNS, communication channels).
+    - The removed member may appeal to the Administrative Board within 14 days of notification. The removal takes effect when the appeal period ends or when the Board decides; in the meantime the committee may suspend administrator rights as an interim measure.
 This process does not limit the Board’s separate authority under Article 22(1)(i) of the Statutes or the dispute resolution provisions of Article 32. If fewer than two Maintainer Committee members are eligible to vote on a proposed removal, the matter will be referred to the Board.
 - Structure: They report to the Administrative Board in phase 1. In phase 2 (start to be decided by the General Assembly) Project Committees will be implemented and assume that reporting role.
 - Responsibilities:  
