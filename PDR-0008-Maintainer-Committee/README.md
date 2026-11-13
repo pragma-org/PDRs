@@ -27,7 +27,7 @@ Maintainer Committees
     - Removing another member requires yes votes from at least two thirds of the members eligible to vote, not only of those who vote.
         - The committee will document the decision, including the vote, reasons and effective date, notify the member and the Administrative Board, update its membership record, and revoke all of the member's access to project accounts and credentials (code hosting, package publishing, web and DNS, communication channels).
     - The removed member may appeal to the Administrative Board within 14 days of notification. The removal takes effect when the appeal period ends or when the Board decides; in the meantime the committee may suspend administrator rights as an interim measure.
-This process does not limit the Board’s separate authority under Article 22(1)(i) of the Statutes or the dispute resolution provisions of Article 32. If fewer than two Maintainer Committee members are eligible to vote on a proposed removal, the matter will be referred to the Board.
+This process does not limit the Board's separate authority under Article 22(1)(i) of the Statutes or the dispute resolution provisions of Article 32. If fewer than three Maintainer Committee members are eligible to vote on a proposed removal, the matter will be referred to the Board. This process does not apply to matters already under assessment by the Board when it is adopted.
 - Structure: They report to the Administrative Board in phase 1. In phase 2 (start to be decided by the General Assembly) Project Committees will be implemented and assume that reporting role.
 - Responsibilities:  
   - Code Review and Quality Assurance: Ensuring that all code contributions meet the project's standards and adhere to any PRAGMA policies.
