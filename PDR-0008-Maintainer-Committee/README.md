@@ -21,7 +21,7 @@ Maintainer Committees
     - The member will receive written notice of the proposed removal and its reasons, and a reasonable opportunity to respond before the committee decides.
     - The member being considered for removal may not vote on the decision. Any other member with a material conflict of interest must recuse themselves.
     - Removing the Lead requires a unanimous vote in favor from all other eligible committee members. Abstention or silence does not count as agreement.
-    - Removing another member requires a 2/3 majority vote.
+    - Removing another member requires yes votes from at least two thirds of the members eligible to vote, not only of those who vote.
     - The committee will document the decision, including the vote, reasons and effective date, notify the member and the Administrative Board and update its membership record. Notice to the Board is for information and is not a condition of the decision taking effect.
 This process does not limit the Board’s separate authority under Article 22(1)(i) of the Statutes or the dispute resolution provisions of Article 32. If fewer than two Maintainer Committee members are eligible to vote on a proposed removal, the matter will be referred to the Board.
 - Structure: They report to the Administrative Board in phase 1. In phase 2 (start to be decided by the General Assembly) Project Committees will be implemented and assume that reporting role.
