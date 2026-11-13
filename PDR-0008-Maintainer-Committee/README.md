@@ -18,7 +18,8 @@ Clearly defining the structure and responsibilities of the Maintainer Committees
 Maintainer Committees
 - Composition: The Maintainer Committee is self organized and comprised of individuals who have demonstrated consistent contributions to a PRAGMA project. The Lead appoints the other members. Thereafter members are appointed by co-optation, new members are selected based on merit and are voted in by existing members of the committee. Maintainer committees will elect new Leads as needed based on merit and vote by existing members of the committee.  
 - Removal of members: A Maintainer Committee may remove a member without a decision, approval or ratification by the Administrative Board, using the following process:
-    - The member will receive written notice of the proposed removal and its reasons, and a reasonable opportunity to respond before the committee decides.
+        - The member will receive written notice of the proposed removal and its reasons, and at least 7 calendar days to respond before the committee decides.
+    - Removal may only be based on prolonged inactivity, repeated breach of the committee's approved regulations, or a finding under PDR-0010. Conduct allegations are handled through PDR-0010, not through this process.
     - The member being considered for removal may not vote on the decision. Any other member with a material conflict of interest must recuse themselves.
     - Removing the Lead requires a unanimous vote in favor from all other eligible committee members. Abstention or silence does not count as agreement.
     - Removing another member requires yes votes from at least two thirds of the members eligible to vote, not only of those who vote.
