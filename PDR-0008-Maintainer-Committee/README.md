@@ -20,7 +20,9 @@ Maintainer Committees
 - Removal of members: A Maintainer Committee may remove a member without a decision, approval or ratification by the Administrative Board, using the following process:
         - The member will receive written notice of the proposed removal and its reasons, and at least 7 calendar days to respond before the committee decides.
     - Removal may only be based on prolonged inactivity, repeated breach of the committee's approved regulations, or a finding under PDR-0010. Conduct allegations are handled through PDR-0010, not through this process.
-    - The member being considered for removal may not vote on the decision. Any other member with a material conflict of interest must recuse themselves.
+    - The member being considered for removal may not vote on the decision. Any other member with a conflict of interest must declare it before the vote, using the categories defined in PDR-0010:
+      - A hard conflict (being the person proposing or affected by the removal in a personal capacity, having a close personal or professional relationship with the member being considered for removal, or having another personal interest likely to undermine impartiality) requires the member to recuse themselves.
+      - A soft conflict (working at the same company as the member being considered for removal without a close relationship, or other circumstances that give the appearance of a conflict) must be declared and recorded; the Administrative Board decides whether recusal is required.
     - Removing the Lead requires a unanimous vote in favor from all other eligible committee members. Abstention or silence does not count as agreement.
     - Removing another member requires yes votes from at least two thirds of the members eligible to vote, not only of those who vote.
     - The committee will document the decision, including the vote, reasons and effective date, notify the member and the Administrative Board and update its membership record. Notice to the Board is for information and is not a condition of the decision taking effect.
